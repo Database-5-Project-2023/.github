@@ -39,26 +39,26 @@
 기본 기능 이외에 구현한 주요 특별 기능은 아래와 같다.
 <br/>
 
-**데이터시각화: 대여소 별 일일 대여량 시각화**
-<p align="left">
-    <img width="298" height="250" alt="image" src="https://github.com/Database-5-Project-2023/Client/assets/92677088/1d1252ea-9f72-4837-b186-61335e35d1f7">
-    <img width="303" height="250" alt="image" src="https://github.com/Database-5-Project-2023/Client/assets/92677088/e4fd92ff-a372-46b2-9b6e-550692c30f48">
-</p>
+- **데이터시각화: 대여소 별 일일 대여량 시각화**
+  <p align="left">
+      <img width="298" height="250" alt="image" src="https://github.com/Database-5-Project-2023/Client/assets/92677088/1d1252ea-9f72-4837-b186-61335e35d1f7">
+      <img width="303" height="250" alt="image" src="https://github.com/Database-5-Project-2023/Client/assets/92677088/e4fd92ff-a372-46b2-9b6e-550692c30f48">
+  </p>
 
-**경로 찾기**
-<p align="left">
-    <img width="345" height="250" alt="image" src="https://github.com/Database-5-Project-2023/Client/assets/92677088/ec5308ab-4b81-4dca-819f-1659454d7d41">
-</p>
+- **경로 찾기**
+  <p align="left">
+      <img width="345" height="250" alt="image" src="https://github.com/Database-5-Project-2023/Client/assets/92677088/ec5308ab-4b81-4dca-819f-1659454d7d41">
+  </p>
 
-**실시간 날씨 조회**
-<p align="left">
-    <img width="345" height="200" alt="image" src="https://github.com/Database-5-Project-2023/Client/assets/92677088/45fdf87a-c460-4a1a-82d2-530fcad8d8d8">
-</p>
+- **실시간 날씨 조회**
+  <p align="left">
+      <img width="345" height="200" alt="image" src="https://github.com/Database-5-Project-2023/Client/assets/92677088/45fdf87a-c460-4a1a-82d2-530fcad8d8d8">
+  </p>
 
-**관리자 대시보드**
-<p align="left">
-    <img width="345" height="200" alt="image" src="https://github.com/Database-5-Project-2023/Client/assets/92677088/02534fe8-3291-4bdc-99f4-074d1809684a">
-</p>
+- **관리자 대시보드**
+  <p align="left">
+      <img width="345" height="200" alt="image" src="https://github.com/Database-5-Project-2023/Client/assets/92677088/02534fe8-3291-4bdc-99f4-074d1809684a">
+  </p>
 
 <br/>
 
